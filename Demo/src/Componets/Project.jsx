@@ -43,16 +43,18 @@ const projects = [
     github: 'https://github.com/anandhues2004-kerala/django_ai_employees',
   },
   {
-    title: 'Stock Prediction Portal',
-    status: 'Running · ML planned',
-    summary:
-      'A stock portal with secure login using JWT authentication and an Axios interceptor for token handling. Machine learning and AI will be added later to predict the stock market.',
-    features: [
-      'JWT authentication',
-      'Interceptor for automatic token handling',
-      'Planned: ML and AI stock prediction',
-    ],
-    stack: ['React', 'JavaScript', 'Python', 'Django', 'JWT'],
+   title: 'Stock Prediction Portal',
+status: 'Completed',
+summary:
+  'A full-stack stock prediction web app built with React, Django REST Framework, and machine learning. It collects historical stock data, cleans it with Pandas and NumPy, engineers features such as moving averages, and trains an ML model to forecast future closing prices. Users log in securely with JWT authentication and a token-refresh interceptor, enter a stock ticker, and view predicted vs. actual price charts served through a Django API.',
+features: [
+  'JWT authentication with automatic token-refresh interceptor',
+  'Historical stock data collection and cleaning (Pandas, NumPy)',
+  'Feature engineering with moving averages',
+  'ML model forecasting future closing prices',
+  'Ticker search with predicted vs. actual price charts',
+],
+stack: ['React', 'JavaScript', 'Python', 'Django REST Framework', 'JWT', 'Pandas', 'NumPy', 'Scikit-learn'],
     github: 'https://github.com/anandhues2004-kerala/Stock-prediction-portal',
   },
 ]

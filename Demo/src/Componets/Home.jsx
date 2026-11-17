@@ -6,12 +6,12 @@ const skills = [
   'Django',
   'React',
   'JavaScript',
-  'HTML',
   'CSS',
   'Tailwind CSS',
   'Agentic AI',
   'MySQL',
   'PostgreSQL',
+  'MongoDB'
 ]
 
 const featured = [
