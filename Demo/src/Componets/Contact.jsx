@@ -28,13 +28,13 @@ const contactInfo = [
  ,
   {
     label: 'GitHub',
-    value: 'github.com/your-username',
+    value: 'https://github.com/anandhues2004-kerala',
     href: 'https://github.com/anandhues2004-kerala',
     icon: <GithubIcon />,
   },
   {
     label: 'LinkedIn',
-    value: 'linkedin.com/in/your-username',
+    value: 'https://www.linkedin.com/in/ananthu-es-a04896282/',
     href: 'https://www.linkedin.com/in/ananthu-es-a04896282/',
     icon: <LinkedinIcon />,
   },
