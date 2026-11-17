@@ -4,7 +4,7 @@ import { Mail, ArrowUp } from 'lucide-react'
 const socials = [
   { label: 'GitHub', href: 'https://github.com/anandhues2004-kerala', icon: FaGithub },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/ananthu-es-a04896282/', icon: FaLinkedin },
-  { label: 'Email', href: 'mailto:main@gmail.com', icon: Mail },
+  { label: 'Email', href: 'mailto:anandhues2004@gmail.com', icon: Mail },
 ]
 
 const Footer = () => {

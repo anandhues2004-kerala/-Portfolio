@@ -19,10 +19,10 @@ const LinkedinIcon = () => (
 )
 
 const contactInfo = [
-  {
+{
   label: 'Email',
-  value: 'anandhues2004@gmail.com',
-  href: '',
+  value:'anandhues2004@gmail.com',
+  href: 'mailto:anandhues2004@gmail.com',
   icon: <MailIcon />,
 },
  ,
